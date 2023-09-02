@@ -1,0 +1,4 @@
+*
+!.gitignore
+!.gitattributes
+ping_log.txt
