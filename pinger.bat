@@ -16,7 +16,7 @@ echo     \/_/    \/_/\/_/\/_/\/___L\ \/____/ \/_/
 echo                           /\____/            
 echo                           \_/__/             
 echo.
-echo Welcome to Pinger.
+echo Welcome to Connectivity tracker (Pinger).
 echo Connectivity tracker (Pinger) tracks internet connectivity and logs when it is cut off or restored, resulting in distinct periods.
 echo.
 
